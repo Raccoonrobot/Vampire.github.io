@@ -1,0 +1,45 @@
+h1 {
+  color: orange;
+  text-align: center;
+  font-weight: bold;
+  font-size: 50px;
+  border: 5px solid #000000
+}
+body
+{background-image: url('https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2F4.bp.blogspot.com%2F-_UIvXsoXHp8%2FUBsmbTyO-zI%2FAAAAAAAADV0%2Ficak19f-IB0%2Fs1600%2FThailand_Bangkok_Cityscape_Red_Night_View_HD_Wallpaper-Vvallpaper.Net.jpg&f=1&nofb=1');
+
+background-size: cover;
+background-position: center;}
+p {
+  font-family: arial;
+  color: #fde4bc;
+  text-align: center;
+  }
+h1 {font-family: 'helvetica';
+color: maroon;
+}
+h2, ol {
+  color: pink;
+  font-family: sans-serif
+  }
+li {
+  font-family: helvetica;
+  color: gold;
+  
+}
+  img {
+    height: 200px;
+    display: inline-block;
+    font-weight: bold;
+    color: white;
+  }
+  footer {color: white;
+  font-family: Helvetica;
+  font-weight: bold;}
+  h3 {
+    color: gold;
+    font-weight: bold
+  }
+  .header{
+    position: center;
+  }
